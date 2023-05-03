@@ -7,4 +7,7 @@ module fr.julien.projetfx {
 
     opens fr.julien.projetfx to javafx.fxml;
     exports fr.julien.projetfx;
+    exports fr.julien.partie1;
+    exports fr.julien.exercices;
+
 }
